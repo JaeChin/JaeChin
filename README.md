@@ -2,7 +2,7 @@
 
 MIS senior at Texas Southern University, graduating May 2026. CompTIA Security+ certified.
 
-I build things that work — whether that's racking Cisco switches in a server room or shipping a full-stack CRM with role-based auth. My day job is cybersecurity infrastructure at TSU. Nights and weekends, I build software and automation systems.
+I build things that work, whether that's racking Cisco switches in a server room or shipping a full-stack CRM with role-based auth. My day job is cybersecurity infrastructure at TSU. Nights and weekends, I build software and automation systems.
 
 ## What I Do
 
